@@ -8,9 +8,9 @@
 – When the go-routine finishes, set back to main method.
 – Displaying all the sorted scanned open ports from the network.
 
-Working of the [script](https://github.com/ajay-deshmukh/portscanner/blob/master/portscanner.gol) I developed.
+Working of the [script](https://github.com/ajay-deshmukh/portscanner/blob/master/portscanner.go) I developed.
 
-![Alt text](https://github.com/ajay-deshmukh/portscanner/blob/master/output/screeenshot.png)
+![Alt text](https://github.com/ajay-deshmukh/portscanner/blob/master/output/screenshot.png)
 
 Locating the open port by passing generalize subroutine for non-preemptive
 multitasking by allowing execution to be suspended and resumed state (halt).
