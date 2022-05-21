@@ -2,11 +2,11 @@
 
 ### I built the Go-portscanner to scan the open ports without any time consumption and hassle of the network.
 
-– Checking all the command line argument has passed accurately.
-– Number of workers (functions) which will be set to work in go-routine.
-– Usage of the channel, assign ports to scan it worker to sub-routine.
-– When the go-routine finishes, set back to main method.
-– Displaying all the sorted scanned open ports from the network.
+- Checking all the command line argument has passed accurately.
+- Number of workers (functions) which will be set to work in go-routine.
+- Usage of the channel, assign ports to scan it worker to sub-routine.
+- When the go-routine finishes, set back to main method.
+- Displaying all the sorted scanned open ports from the network.
 
 Working of the [script](https://github.com/ajay-deshmukh/portscanner/blob/master/portscanner.go) I developed.
 
